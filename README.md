@@ -19,16 +19,24 @@ https://medium.com/@florentia.teye/twitter-sentiment-analysis-c5a649219dd9
  
  ## Author
 
-**Name:** Florentia Teye
-
-**GitHub:** [https://github.com/flokabukie)
-
-**LinkedIn:** [Florentia Teye](https://www.linkedin.com/in/florentia-teye-75270a191/)
-
-**Email:** florentiateye@gmail.com
-florentia.teye@azubiafrica.org
+**Florentia Teye**
 
 Florentia Teye is a Data Analytics Professional with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
 
+
+**LinkedIn:**
+
+[![Alt text](image.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
+
+ 
+
+**Email:** florentiateye@gmail.com
+
+
+
+
 Here is the link to the deployed app
-https://huggingface.co/spaces/flokabukie/Twitter-gradio-sentiment-analysis-app
+
+[![Alt text](image-1.png)](https://huggingface.co/spaces/flokabukie/Twitter-gradio-sentiment-analysis-app)
+
+![Alt text](image-2.png)
